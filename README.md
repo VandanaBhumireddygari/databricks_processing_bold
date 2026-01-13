@@ -1,5 +1,3 @@
-
-```markdown
 # 🏥 Healthcare Eligibility Pipeline (S3 + Databricks | Config-Driven)
 
 A configuration-driven data pipeline that ingests eligibility files from multiple healthcare partners (different delimiters + column names), standardizes them into a single schema, and publishes a unified dataset for downstream analytics.
@@ -8,7 +6,6 @@ This solution is designed for Databricks + S3 using Spark and Delta Lake.
 
 > Built to match the "Healthcare Eligibility Pipeline" technical assessment requirements (config-driven ingestion, standardized schema, unified output).  
 
----
 
 ## ✅ What This Pipeline Solves
 
